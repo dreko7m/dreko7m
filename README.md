@@ -1,16 +1,18 @@
 # Hi there! 🗣️
 
-I'm Diego, a Software engineer student based in Canada. 
+I'm Diego, a software engineering student based in Canada.
 
-I'm a resilient, curious and creative person in love with programming. 
+I'm a resilient, curious, and creative person in love with programming.
 
-I'm currently working on some incredible projects. See my progress here!
+I recently decided to focus on becoming a full-stack or backend software developer. I'm very excited for this journey, and I'm currently working on some amazing projects! 👀 Take a look at my progress in my repos, and maybe leave a comment!
 
-My main tech stack is React, Typescript/Javascript, Python, PostgreSQL, HTML & CSS, and C++
+My main tech stack is React, TypeScript/JavaScript, Python, PostgreSQL, HTML & CSS, and C++.
 
-Fun Fact: 
-- I'm a car enthusiast!
-- I love music! I play the trumpet and guitar, and I just started learning the piano. I also love to listen to music (I am obsessed, and have been obsessed with electronic music my whole life so far.)
+Fun facts:
+- I've been a car enthusiast for most of my life. 🏎️
+- I love music: I play the trumpet 🎺 and guitar 🎸, and I just started learning the piano 🎹. I've also been obsessed with electronic music for as long as I can remember. 
+- I'm technically the stepfather of a cat named Matcha.
+
 
 
 
