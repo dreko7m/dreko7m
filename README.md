@@ -9,9 +9,9 @@ I recently decided to focus on becoming a full-stack or backend software develop
 My main tech stack is React, TypeScript/JavaScript, Python, PostgreSQL, HTML & CSS, and C++.
 
 Fun facts:
-- I've been a car enthusiast for most of my life. 🏎️
-- I love music: I play the trumpet 🎺 and guitar 🎸, and I just started learning the piano 🎹. I've also been obsessed with electronic music for as long as I can remember. 
-- I'm technically the stepfather of a cat named Matcha.
+- 🏎️ I've been a car enthusiast for most of my life. 
+- 🎶 I love music: I play the trumpet and guitar , and I just started learning the piano. I've also been obsessed with electronic music for as long as I can remember. 
+- 🐈 I'm technically the stepfather of a cat named Matcha.
 
 
 
